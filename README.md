@@ -16,7 +16,7 @@
 **Project: SOCIAL MEDIA SENTIMENT ANALYSIS based on Amazon Food Reviews**
 
 **Objective:** 
-Analyze social media data (e.g., Amazon) to understand public sentiment
+Analyze social media data (e.g., Amazon Reviews) to understand public sentiment
 towards specific topics, products, or events. Use natural language
 processing (NLP) techniques to preprocess text data, extract sentiment
 scores, and visualize sentiment trends over time. 
